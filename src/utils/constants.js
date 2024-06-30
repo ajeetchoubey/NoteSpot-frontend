@@ -1,0 +1,1 @@
+export const BASE_URL = "https://notespot-backend.onrender.com"
