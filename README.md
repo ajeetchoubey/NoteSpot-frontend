@@ -1,4 +1,4 @@
-Try out this app here: https://notespot.netlify.app
+Try out this app here: https://notespotapp.netlify.app
 
 # React + Vite
 
